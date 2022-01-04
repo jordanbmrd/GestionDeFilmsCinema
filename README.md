@@ -1,4 +1,4 @@
-# GestionDeFilmsCinema
+# Logiciel de gestion de films
 
 ## Compétences
 
