@@ -2,6 +2,11 @@
 
 ## Compétences
 
+- Traiter des fichiers avec Java (création, suppression, modification, ...)
+- Créer des algorithmes :
+ - de tri (sélection, fusion)
+ - de recherche (linéaire, dichotomique)
+
 - Analyser un problème avec méthode (découpage
 en éléments algorithmiques simples, structure de
 données...)
@@ -25,6 +30,6 @@ algorithmiques pour résoudre un même problème.
 - Présentation du problème et de la comparaison des
 différentes approches
 
-## Contributeurs
+## Contributeurs 🙋‍♂️
+- Moi
 - [Enzo Desbois](https://github.com/dbsenzo)
-- Jordan Baumard
