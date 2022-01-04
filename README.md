@@ -1,5 +1,5 @@
 # GestionDeFilmsCinema
 
 ## Contributeurs
-- Enzo Desbois
+- (Enzo Desbois)[https://github.com/dbsenzo]
 - Jordan Baumard
