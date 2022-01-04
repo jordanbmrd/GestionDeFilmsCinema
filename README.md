@@ -1,3 +1,5 @@
 # GestionDeFilmsCinema
-# Enzo Desbois
-# Jordan Baumard
+
+## Contributeurs
+- Enzo Desbois
+- Jordan Baumard
