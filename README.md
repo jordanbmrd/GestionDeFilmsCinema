@@ -4,8 +4,8 @@
 
 - Traiter des fichiers avec Java (création, suppression, modification, ...)
 - Créer des algorithmes :
- - de tri (sélection, fusion)
- - de recherche (linéaire, dichotomique)
+..- de tri (sélection, fusion)
+..- de recherche (linéaire, dichotomique)
 
 - Analyser un problème avec méthode (découpage
 en éléments algorithmiques simples, structure de
