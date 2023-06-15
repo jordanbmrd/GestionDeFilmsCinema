@@ -30,6 +30,6 @@ algorithmiques pour résoudre un même problème.
 - Présentation du problème et de la comparaison des
 différentes approches
 
-## Contributeurs 🙋‍♂️
-- Moi
-- [Enzo Desbois](https://github.com/dbsenzo)
+## Contributeurs
+- Jordan BAUMARD
+- [Enzo DESBOIS](https://github.com/dbsenzo)
