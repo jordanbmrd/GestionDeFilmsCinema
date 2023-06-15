@@ -1,6 +1,6 @@
 # Logiciel de gestion de films
 
-## Compétences
+## Besoins
 
 - Traiter des fichiers avec Java (création, suppression, modification, ...)
 - Créer des algorithmes :
